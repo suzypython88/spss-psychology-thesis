@@ -11,3 +11,5 @@ Grapheme-colour synaesthesia is a familial condition in which letters, numbers, 
 - Conference Poster
 - Experiment Test Words
 - Participant Questionnaire
+
+![Suzy Percy Poster Image](https://github.com/user-attachments/assets/c34aee11-da46-4f74-9082-cc1c9c190df0)
